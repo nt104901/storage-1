@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:31
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:31.250000,
+https://raw.githubusercontent.com/nt104901/storage-1/main/hls_YTDown.com_YouTube_Faithless-Purification_Media_MUzz3KNWZx0_001_480p_1770557834140/YTDown.com_YouTube_Faithless-Purification_Media_MUzz3KNWZx0_001_480p_000.ts
+#EXTINF:31.250000,
+https://raw.githubusercontent.com/nt104901/storage-1/main/hls_YTDown.com_YouTube_Faithless-Purification_Media_MUzz3KNWZx0_001_480p_1770557834140/YTDown.com_YouTube_Faithless-Purification_Media_MUzz3KNWZx0_001_480p_001.ts
+#EXTINF:31.250000,
+https://raw.githubusercontent.com/nt104901/storage-1/main/hls_YTDown.com_YouTube_Faithless-Purification_Media_MUzz3KNWZx0_001_480p_1770557834140/YTDown.com_YouTube_Faithless-Purification_Media_MUzz3KNWZx0_001_480p_002.ts
+#EXTINF:31.250000,
+https://raw.githubusercontent.com/nt104901/storage-1/main/hls_YTDown.com_YouTube_Faithless-Purification_Media_MUzz3KNWZx0_001_480p_1770557834140/YTDown.com_YouTube_Faithless-Purification_Media_MUzz3KNWZx0_001_480p_003.ts
+#EXTINF:31.250000,
+https://raw.githubusercontent.com/nt104901/storage-1/main/hls_YTDown.com_YouTube_Faithless-Purification_Media_MUzz3KNWZx0_001_480p_1770557834140/YTDown.com_YouTube_Faithless-Purification_Media_MUzz3KNWZx0_001_480p_004.ts
+#EXTINF:5.041667,
+https://raw.githubusercontent.com/nt104901/storage-1/main/hls_YTDown.com_YouTube_Faithless-Purification_Media_MUzz3KNWZx0_001_480p_1770557834140/YTDown.com_YouTube_Faithless-Purification_Media_MUzz3KNWZx0_001_480p_005.ts
+#EXT-X-ENDLIST

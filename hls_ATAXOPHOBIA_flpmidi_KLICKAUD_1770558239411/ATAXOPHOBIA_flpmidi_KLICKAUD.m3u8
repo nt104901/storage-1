@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:60
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:60.000367,
+https://raw.githubusercontent.com/nt104901/storage-1/main/hls_ATAXOPHOBIA_flpmidi_KLICKAUD_1770558239411/ATAXOPHOBIA_flpmidi_KLICKAUD_000.ts
+#EXTINF:60.000367,
+https://raw.githubusercontent.com/nt104901/storage-1/main/hls_ATAXOPHOBIA_flpmidi_KLICKAUD_1770558239411/ATAXOPHOBIA_flpmidi_KLICKAUD_001.ts
+#EXTINF:60.000356,
+https://raw.githubusercontent.com/nt104901/storage-1/main/hls_ATAXOPHOBIA_flpmidi_KLICKAUD_1770558239411/ATAXOPHOBIA_flpmidi_KLICKAUD_002.ts
+#EXTINF:4.002933,
+https://raw.githubusercontent.com/nt104901/storage-1/main/hls_ATAXOPHOBIA_flpmidi_KLICKAUD_1770558239411/ATAXOPHOBIA_flpmidi_KLICKAUD_003.ts
+#EXT-X-ENDLIST

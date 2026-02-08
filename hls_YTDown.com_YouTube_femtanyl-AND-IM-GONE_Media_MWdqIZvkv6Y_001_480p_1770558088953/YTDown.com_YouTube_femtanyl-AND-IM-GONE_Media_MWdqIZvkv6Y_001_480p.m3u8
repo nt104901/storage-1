@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:33
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:33.366667,
+https://raw.githubusercontent.com/nt104901/storage-1/main/hls_YTDown.com_YouTube_femtanyl-AND-IM-GONE_Media_MWdqIZvkv6Y_001_480p_1770558088953/YTDown.com_YouTube_femtanyl-AND-IM-GONE_Media_MWdqIZvkv6Y_001_480p_000.ts
+#EXTINF:33.366667,
+https://raw.githubusercontent.com/nt104901/storage-1/main/hls_YTDown.com_YouTube_femtanyl-AND-IM-GONE_Media_MWdqIZvkv6Y_001_480p_1770558088953/YTDown.com_YouTube_femtanyl-AND-IM-GONE_Media_MWdqIZvkv6Y_001_480p_001.ts
+#EXTINF:25.025000,
+https://raw.githubusercontent.com/nt104901/storage-1/main/hls_YTDown.com_YouTube_femtanyl-AND-IM-GONE_Media_MWdqIZvkv6Y_001_480p_1770558088953/YTDown.com_YouTube_femtanyl-AND-IM-GONE_Media_MWdqIZvkv6Y_001_480p_002.ts
+#EXTINF:33.366667,
+https://raw.githubusercontent.com/nt104901/storage-1/main/hls_YTDown.com_YouTube_femtanyl-AND-IM-GONE_Media_MWdqIZvkv6Y_001_480p_1770558088953/YTDown.com_YouTube_femtanyl-AND-IM-GONE_Media_MWdqIZvkv6Y_001_480p_003.ts
+#EXTINF:25.025000,
+https://raw.githubusercontent.com/nt104901/storage-1/main/hls_YTDown.com_YouTube_femtanyl-AND-IM-GONE_Media_MWdqIZvkv6Y_001_480p_1770558088953/YTDown.com_YouTube_femtanyl-AND-IM-GONE_Media_MWdqIZvkv6Y_001_480p_004.ts
+#EXTINF:16.583233,
+https://raw.githubusercontent.com/nt104901/storage-1/main/hls_YTDown.com_YouTube_femtanyl-AND-IM-GONE_Media_MWdqIZvkv6Y_001_480p_1770558088953/YTDown.com_YouTube_femtanyl-AND-IM-GONE_Media_MWdqIZvkv6Y_001_480p_005.ts
+#EXT-X-ENDLIST

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:19
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:18.700000,
+https://raw.githubusercontent.com/nt104901/storage-1/main/hls_ssstwitter.com_1769884994647_1770558591293/ssstwitter.com_1769884994647_000.ts
+#EXT-X-ENDLIST

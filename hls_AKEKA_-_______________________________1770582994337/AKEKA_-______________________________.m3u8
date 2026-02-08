@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:11
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.933333,
+https://raw.githubusercontent.com/nt104901/storage-1/main/hls_AKEKA_-_______________________________1770582994337/AKEKA_-_______________________________000.ts
+#EXT-X-ENDLIST

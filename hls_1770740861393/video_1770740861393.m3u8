@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:31
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:30.833333,
+https://raw.githubusercontent.com/nt104901/storage-1/main/hls_1770740861393/video_1770740861393_000.ts
+#EXTINF:30.400000,
+https://raw.githubusercontent.com/nt104901/storage-1/main/hls_1770740861393/video_1770740861393_001.ts
+#EXT-X-ENDLIST

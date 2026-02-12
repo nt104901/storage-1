@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:33
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:30.352944,
+https://raw.githubusercontent.com/nt104901/storage-1/main/hls_1770920779881/video_1770920779881_000.ts
+#EXTINF:32.719722,
+https://raw.githubusercontent.com/nt104901/storage-1/main/hls_1770920779881/video_1770920779881_001.ts
+#EXTINF:31.141867,
+https://raw.githubusercontent.com/nt104901/storage-1/main/hls_1770920779881/video_1770920779881_002.ts
+#EXTINF:31.141867,
+https://raw.githubusercontent.com/nt104901/storage-1/main/hls_1770920779881/video_1770920779881_003.ts
+#EXTINF:29.730100,
+https://raw.githubusercontent.com/nt104901/storage-1/main/hls_1770920779881/video_1770920779881_004.ts
+#EXTINF:19.224789,
+https://raw.githubusercontent.com/nt104901/storage-1/main/hls_1770920779881/video_1770920779881_005.ts
+#EXT-X-ENDLIST
